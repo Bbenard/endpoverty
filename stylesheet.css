@@ -1,0 +1,89 @@
+body {
+	background-color:whitesmoke;
+   font-family:calibri,'open sans';
+}
+nav {
+	
+	background-color:seashell;
+	height:110px;
+	width:100%;
+}
+ul{
+	list-style:none;
+	color:black;
+	
+}
+ul li a{
+	text-decoration:none;
+	background-color:;
+	color:black;
+	margin:10px;
+	text-align:center;
+	font-family:Georgia,"times new roma",serif;
+	padding:10px;
+	height:25px; 
+	line-height:25px;
+	float:right;
+	text-shadow: 1px 1px  #090c02;
+
+}
+	
+
+
+content{
+	background-color:white;
+	height:auto;
+}
+section{
+	background-color:white;
+	width:29%;
+	float:left;
+	margin:1% 2%;
+	text-align:center;
+	
+}
+
+
+h2{
+	background-color:black;
+	text-align:center;
+	color:white;
+	width:auto;
+	
+
+}
+.clear{
+	 clear:both;
+}
+footer{
+	background-color:black;
+	height:100px;
+	text-align:center;
+	color :white;
+}
+
+
+	h1{
+		font-family:verdana;
+		color:black;
+		padding:1px;
+		box-shadow: 10px 10px 5px #888888;
+		text-shadow: 2px 2px #060801 ;
+	}
+.header{
+	background-color:;
+	text-align:center;
+	color:red;
+	width:auto;
+	margin-top:0%;
+	margin-bottom:1%;
+}
+	hr{
+	border-top: dotted 1px;
+	}
+header{
+    background-color:white;
+	width:100%;
+	margin:1% 1%;
+	text-align:center;
+}
