@@ -3,7 +3,7 @@
 
 Its a  Enpoverty is website website
 
-**Repository Link :**https://github.com/Bbenard/style-conference
+**Repository Link :**https://github.com/Bbenard/endpoverty
 
 
 
