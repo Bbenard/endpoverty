@@ -1,10 +1,14 @@
 # endpoverty
  Enpoverty is website that explains means and ways of reducing poverty
 **Repository Link :** https://github.com/Bbenard/endpoverty
-**About the project :**It is a Enpoverty is website that explains means and ways of reducing poverty
+
+**About the project :**It is a Enpoverty is website that explains means and ways of reducing poverty 
+
 **Tools Applied:-**
 
-Html
+Html   
+
+
 **Tools Applied:-**
 
 Html
